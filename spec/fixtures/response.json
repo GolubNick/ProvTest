@@ -1,0 +1,12 @@
+{
+  "success": false,
+  "errors": {
+    "email": [
+      ""
+    ],
+    "password": [
+      ""
+    ],
+    "message": "The password and email you entered don't match. If you forgot your password, use \"Forgot Password\""
+  }
+}
